@@ -1,5 +1,14 @@
 # Change Log
 
+## 2.10.0
+
+### Patch Changes
+
+- ddd3d71: React 19 is now allowed as a peer dep, we did not have to make any changes for React 19
+- Updated dependencies [830e683]
+  - @tiptap/extension-bubble-menu@2.10.0
+  - @tiptap/extension-floating-menu@2.10.0
+
 ## 2.9.1
 
 ### Patch Changes
